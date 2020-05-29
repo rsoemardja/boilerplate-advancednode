@@ -11,6 +11,8 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "pug": "3.0.0",
+    "mongodb": "3.5.8",
     "express": "^4.16.1",
     "cors": "^2.8.1"
   },
